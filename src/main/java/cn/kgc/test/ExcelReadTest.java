@@ -17,7 +17,7 @@ import java.util.*;
  */
 public class ExcelReadTest {
 
-    //路径变量
+    //路径
     String PATH="E:\\workpaceid\\Excel_test\\poi_test\\";
 
     /*测试03版本读取*/
